@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.vscode
+>>>>>>> 19c469c8b0e1f7edac755ca403f2a869c5ba2dbb
