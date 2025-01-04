@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: 100xdevs/cms-staging:${{ github.sha }}
+          tags: sarthaksbiswas29/monkeytype-frontend:${{ github.sha }}
