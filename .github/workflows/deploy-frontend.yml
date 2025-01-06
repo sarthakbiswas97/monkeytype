@@ -38,4 +38,4 @@ jobs:
             docker pull sarthaksbiswas29/monkeytype-frontend:${{ github.sha }}
             docker stop monkeytype-frontend
             docker rm monkeytype-frontend 
-            docker run -p 5173:4173 --name monkeytype-frontend -d sarthaksbiswas29/monkeytype-frontend:${{ github.sha }}
+            docker run -p 5173:5173 --name monkeytype-frontend -d sarthaksbiswas29/monkeytype-frontend:${{ github.sha }}
