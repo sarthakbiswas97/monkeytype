@@ -1,11 +1,4 @@
-# vite-react-ts-starter
+![image](https://github.com/user-attachments/assets/b08f7cca-5a7d-4493-ad09-d43595e42e8d)
 
-Vitejs starter using React &amp; Typescript.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/7b41a246-9ae1-4fe2-9459-8b665045d7f9" />
 
-Styling done with TailwindCSS (using JIT mode).
-
-Testing done with Vitest.
-
-# Codesandbox
-
-You can also find a codesandbox template of this repo [here](https://codesandbox.io/p/sandbox/github/simerlec/vite-react-ts-starter/tree/main)
